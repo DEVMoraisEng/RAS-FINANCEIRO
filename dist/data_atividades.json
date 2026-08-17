@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-17T12:55:05",
+  "geradoEm": "2026-08-17T12:58:28",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -21,7 +21,7 @@
       "responsavel": "Gustavo",
       "prioridade": "",
       "status": "",
-      "semana": "",
+      "semana": "2026-08-17",
       "obs": ""
     },
     {
@@ -31,7 +31,7 @@
       "responsavel": "Júlio Cesar",
       "prioridade": "",
       "status": "",
-      "semana": "",
+      "semana": "2026-08-17",
       "obs": ""
     },
     {
@@ -41,7 +41,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "",
       "status": "",
-      "semana": "",
+      "semana": "2026-08-17",
       "obs": ""
     },
     {
@@ -51,7 +51,7 @@
       "responsavel": "Lohany",
       "prioridade": "",
       "status": "",
-      "semana": "",
+      "semana": "2026-08-17",
       "obs": ""
     }
   ]
