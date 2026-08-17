@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-17T13:15:56",
+  "geradoEm": "2026-08-17T13:35:00",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -13,46 +13,5 @@
     "Gustavo",
     "Lohany"
   ],
-  "atividades": [
-    {
-      "id": "3bfc5ab5-32d3-8017-a3cf-c4b625a70394",
-      "nome": "teste 4",
-      "setor": "Gustavo",
-      "responsavel": "Gustavo",
-      "prioridade": "",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3bfc5ab5-32d3-8092-9b51-c14ae2e7162d",
-      "nome": "teste 3",
-      "setor": "Júlio Cesar",
-      "responsavel": "Júlio Cesar",
-      "prioridade": "",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3bfc5ab5-32d3-805d-92fb-cad393762086",
-      "nome": "teste 2",
-      "setor": "Ana Paula",
-      "responsavel": "Ana Paula",
-      "prioridade": "",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3bfc5ab5-32d3-802e-825d-e152f8e0ecf6",
-      "nome": "teste 1",
-      "setor": "Lohany",
-      "responsavel": "Lohany",
-      "prioridade": "",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    }
-  ]
+  "atividades": []
 }
