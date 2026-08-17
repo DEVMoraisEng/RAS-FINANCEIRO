@@ -550,6 +550,15 @@ function changeField(id, field, value){
   a[field] = value;
   if(field==="semana") recomputarSeletorSemanas();
   render();
+  if(String(id).startsWith("local-")){
+    // Ainda não sincronizou com o Notion (criada nesta sessão, antes do
+    // próximo fetch_ras.py) — não existe página real pra editar lá ainda.
+    // A mudança fica só na tela; assim que a sincronização acontecer (até
+    // 15 min) e a página recarregar, o ID real assume e a edição volta a
+    // salvar normalmente. Mesma lógica já aplicada em excluirAtividade.
+    toast("Alteração salva só na tela — a atividade ainda não sincronizou com o Notion (até 15 min).");
+    return;
+  }
   if(WRITE_ENDPOINT){ post({action:"update", id, field, value}); }
 }
 
