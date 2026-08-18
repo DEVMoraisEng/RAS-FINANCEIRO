@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T14:53:47",
+  "geradoEm": "2026-08-18T15:11:22",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,16 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3c0c5ab5-32d3-81b4-b8cf-e4099cbe95ca",
+      "nome": "Conversar com Juliana para alinhamento de reembolsos e cobrança aos clientes ref. transferências de unidades consumidoras",
+      "setor": "Júlio Cesar",
+      "responsavel": "Júlio Cesar",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
     {
       "id": "3c0c5ab5-32d3-8136-b69c-d13b73b9d8e4",
       "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
@@ -126,7 +136,7 @@
     },
     {
       "id": "3c0c5ab5-32d3-81e2-a9c4-c136670da0fe",
-      "nome": "Alinhamento de agendamento de pagamentos em geral",
+      "nome": "Dep. de compras participar da próx. reunião - alinhar local de entrega e obra",
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
