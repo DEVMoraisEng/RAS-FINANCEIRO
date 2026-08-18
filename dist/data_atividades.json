@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T13:42:58",
+  "geradoEm": "2026-08-18T14:02:26",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,66 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3c0c5ab5-32d3-811a-9853-cf50d4dfad6e",
+      "nome": "Possibilidade das questões de energia e água concentrarem no financeiro",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-816e-a570-e622d3ab7542",
+      "nome": "Criação de pontos de controle (conferência de tarefas concluídas pelo outro)",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-81e2-a9c4-c136670da0fe",
+      "nome": "Alinhamento de agendamento de pagamentos em geral",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-81ca-9c9d-c3b1b1353141",
+      "nome": "Verificar com Mais Controle sobre a questão de copiar o código de barras de boleto.",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-814c-801c-c1894a5fbb6a",
+      "nome": "Padronizar reembolsos - lançamentos para facilitar automação",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-8101-a2c8-c6e79b60a0eb",
+      "nome": "Padronizar reembolsos - lançamentos para facilitar automação",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
     {
       "id": "3c0c5ab5-32d3-8122-aefd-d3a28d2dbbf6",
       "nome": "Ser aberto a melhorias",
