@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T14:02:26",
+  "geradoEm": "2026-08-18T14:21:46",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,46 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3c0c5ab5-32d3-8113-bbdf-dc29bc6f3593",
+      "nome": "Conversar com departamento de compras sobre utilizar diretamente no Mais Controle o filtro das Ordem de Compras (financeiro pendente e entrega parcial)",
+      "setor": "Júlio Cesar",
+      "responsavel": "Júlio Cesar",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-81ba-b1f8-dd593ac18c07",
+      "nome": "Sistema e processo de cobrança alinhado e funcionando para otimização da demanda no lançamento do condomínio",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-81e8-961c-dbb7561e0866",
+      "nome": "Sistema e processo de cobrança alinhado e funcionando para otimização da demanda no lançamento do condomínio",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-81ef-a594-f482b3e12534",
+      "nome": "Sistema e processo de cobrança alinhado e funcionando para otimização da demanda no lançamento do condomínio",
+      "setor": "Júlio Cesar",
+      "responsavel": "Júlio Cesar",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
     {
       "id": "3c0c5ab5-32d3-811a-9853-cf50d4dfad6e",
       "nome": "Possibilidade das questões de energia e água concentrarem no financeiro",
@@ -69,16 +109,6 @@
       "nome": "Padronizar reembolsos - lançamentos para facilitar automação",
       "setor": "Lohany",
       "responsavel": "Lohany",
-      "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-8122-aefd-d3a28d2dbbf6",
-      "nome": "Ser aberto a melhorias",
-      "setor": "Ana Paula",
-      "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "A Fazer",
       "semana": "2026-08-17",
