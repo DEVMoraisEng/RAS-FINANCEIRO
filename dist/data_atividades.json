@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T14:21:46",
+  "geradoEm": "2026-08-18T14:35:11",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,56 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3c0c5ab5-32d3-8136-b69c-d13b73b9d8e4",
+      "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-81af-b096-c3c0fd252541",
+      "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
+      "setor": "Ana Paula",
+      "responsavel": "Ana Paula",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-816f-8146-c9dcc4f39a3c",
+      "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
+      "setor": "Júlio Cesar",
+      "responsavel": "Júlio Cesar",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-81bd-8f7f-d8c93b84e4dc",
+      "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
+    {
+      "id": "3c0c5ab5-32d3-819f-b35c-e78b2fa5dd84",
+      "nome": "Abordar com Mais Controle sobre inserir imposto ou taxas no cadastro do item de materiais, etc.",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-17",
+      "obs": ""
+    },
     {
       "id": "3c0c5ab5-32d3-8113-bbdf-dc29bc6f3593",
       "nome": "Conversar com departamento de compras sobre utilizar diretamente no Mais Controle o filtro das Ordem de Compras (financeiro pendente e entrega parcial)",
