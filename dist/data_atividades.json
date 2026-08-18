@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T14:37:41",
+  "geradoEm": "2026-08-18T14:53:47",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -106,7 +106,7 @@
     },
     {
       "id": "3c0c5ab5-32d3-811a-9853-cf50d4dfad6e",
-      "nome": "Possibilidade das questões de energia e água concentrarem no financeiro",
+      "nome": "Conversar com compras para possibilidade das questões de energia e água concentrarem no financeiro",
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
