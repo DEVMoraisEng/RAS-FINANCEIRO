@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-19T19:26:37",
+  "geradoEm": "2026-08-19T20:03:10",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -121,7 +121,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-08-17",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -141,7 +141,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-08-17",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -150,7 +150,7 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-08-17",
       "obs": ""
     },
@@ -170,7 +170,7 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
+      "status": "Concluído",
       "semana": "2026-08-17",
       "obs": ""
     },
