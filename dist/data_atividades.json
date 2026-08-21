@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T12:50:00",
+  "geradoEm": "2026-08-21T13:34:02",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,46 +14,6 @@
     "Lohany"
   ],
   "atividades": [
-    {
-      "id": "3c3c5ab5-32d3-81fe-8cd0-cf38597e2106",
-      "nome": "atividade teste",
-      "setor": "Gustavo",
-      "responsavel": "Gustavo",
-      "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3c3c5ab5-32d3-81cd-9d9a-e05133c96501",
-      "nome": "atividade teste",
-      "setor": "Lohany",
-      "responsavel": "Lohany",
-      "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3c3c5ab5-32d3-8110-9f24-d1265e4df1a6",
-      "nome": "atividade teste",
-      "setor": "Gustavo",
-      "responsavel": "Gustavo",
-      "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": "teste"
-    },
-    {
-      "id": "3c3c5ab5-32d3-8125-a7ae-d207111c3033",
-      "nome": "atividade teste",
-      "setor": "Lohany",
-      "responsavel": "Lohany",
-      "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
-      "obs": "teste"
-    },
     {
       "id": "3c3c5ab5-32d3-816e-bf11-ea687fb60a21",
       "nome": "Novo formato de apuração de impostos sobre venda de unidade",
@@ -71,7 +31,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-08-17",
+      "semana": "2026-08-24",
       "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais."
     },
     {
