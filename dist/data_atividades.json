@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T01:21:58",
+  "geradoEm": "2026-08-24T03:02:06",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,8 +20,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "Em Andamento",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais."
     },
     {
@@ -40,8 +40,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Em Andamento",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais."
     },
     {
@@ -50,8 +50,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -60,8 +60,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -70,8 +70,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -80,8 +80,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -90,8 +90,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -100,8 +100,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -110,8 +110,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -120,8 +120,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -130,8 +130,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -140,8 +140,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -160,8 +160,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -190,8 +190,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -210,8 +210,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": "Atividades do Notion só funcionam se a pessoa realmente entrar e ver suas atividades, caso contrario não surte efeito positivo e gera demanda de criar tarefas de forma desnecessária. \n\nSendo por whatsapp, ou Notion. Precisamos ajustar o comprometimento, prioridade e retorno."
     },
     {
@@ -220,8 +220,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-08-17",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-08-24",
       "obs": "Usar o filtro na aba de compras, facilita a organização pessoal, e evita atrasos. A pessoa se organiza diariamente ou em dias alternados para executar as tarefas de ajuste de valores dentro da semana."
     }
   ]
