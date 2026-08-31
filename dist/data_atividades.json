@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-31T16:47:29",
+  "geradoEm": "2026-08-31T20:03:37",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,16 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3cdc5ab5-32d3-818b-b23c-fca90e0d81f7",
+      "nome": "Centro de custo a classificar - obra pendente",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": ""
+    },
     {
       "id": "3c3c5ab5-32d3-816e-bf11-ea687fb60a21",
       "nome": "Novo formato de apuração de impostos sobre venda de unidade",
