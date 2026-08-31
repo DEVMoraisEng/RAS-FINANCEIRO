@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-31T08:14:28",
+  "geradoEm": "2026-08-31T13:14:51",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,16 +14,6 @@
     "Lohany"
   ],
   "atividades": [
-    {
-      "id": "3c6c5ab5-32d3-81eb-97bc-f7b5f1f20c4f",
-      "nome": "teste teste",
-      "setor": "Lohany",
-      "responsavel": "Lohany",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
-      "obs": ""
-    },
     {
       "id": "3c3c5ab5-32d3-816e-bf11-ea687fb60a21",
       "nome": "Novo formato de apuração de impostos sobre venda de unidade",
