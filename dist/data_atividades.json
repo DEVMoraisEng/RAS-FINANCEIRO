@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-01T13:11:52",
+  "geradoEm": "2026-09-01T16:30:03",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,26 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3cec5ab5-32d3-8129-98ab-c06d32433f91",
+      "nome": "Plano de contas",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-08-31",
+      "obs": "Concluído.\nEm fase de adaptação do setor de compras"
+    },
+    {
+      "id": "3cec5ab5-32d3-8156-a6ef-ea9adb249563",
+      "nome": "ATUALIZAÇÃO DAS AUTOMAÇÕES",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "Em Andamento",
+      "semana": "2026-08-31",
+      "obs": "FEITAS/REVISÕES\n- REMESSAS/RETORNO: FEITAS COM RESSALVAS\n- LANÇAMENTO DAS CONCESSIONÁRIAS\n- BAIXAS DE COMPROVANTES\n\n\nA FAZER:\n- CONTROLE DO EMAIL\n- CONTRATOS E RCBTOS"
+    },
     {
       "id": "3cdc5ab5-32d3-818b-b23c-fca90e0d81f7",
       "nome": "Centro de custo a classificar - obra pendente",
@@ -65,30 +85,10 @@
       "obs": ""
     },
     {
-      "id": "3c0c5ab5-32d3-8136-b69c-d13b73b9d8e4",
-      "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
-      "setor": "Lohany",
-      "responsavel": "Lohany",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
-      "obs": ""
-    },
-    {
       "id": "3c0c5ab5-32d3-81af-b096-c3c0fd252541",
       "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
-      "obs": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-816f-8146-c9dcc4f39a3c",
-      "nome": "Todo alinhamento e adaptações fazer documentação e inclusão no manual e alimentar a última data de atualização.",
-      "setor": "Júlio Cesar",
-      "responsavel": "Júlio Cesar",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
@@ -111,7 +111,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "semana": "2026-09-07",
       "obs": ""
     },
     {
@@ -142,7 +142,7 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi"
     },
     {
       "id": "3c0c5ab5-32d3-81ef-a594-f482b3e12534",
@@ -161,7 +161,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "semana": "2026-08-24",
       "obs": ""
     },
     {
@@ -182,16 +182,6 @@
       "prioridade": "Média",
       "status": "Concluído",
       "semana": "2026-08-17",
-      "obs": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-814c-801c-c1894a5fbb6a",
-      "nome": "Padronizar reembolsos - lançamentos para facilitar automação",
-      "setor": "Gustavo",
-      "responsavel": "Gustavo",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
       "obs": ""
     },
     {
