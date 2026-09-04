@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-04T08:33:56",
+  "geradoEm": "2026-09-04T13:13:25",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -22,7 +22,8 @@
       "prioridade": "Média",
       "status": "A Fazer",
       "semana": "2026-08-31",
-      "obs": "Concluído.\nEm fase de adaptação do setor de compras"
+      "obs": "Concluído.\nEm fase de adaptação do setor de compras",
+      "origem": ""
     },
     {
       "id": "3cec5ab5-32d3-8156-a6ef-ea9adb249563",
@@ -32,7 +33,8 @@
       "prioridade": "Média",
       "status": "Em Andamento",
       "semana": "2026-08-31",
-      "obs": "FEITAS/REVISÕES\n- REMESSAS/RETORNO: FEITAS COM RESSALVAS\n- LANÇAMENTO DAS CONCESSIONÁRIAS\n- BAIXAS DE COMPROVANTES\n\n\nA FAZER:\n- CONTROLE DO EMAIL\n- CONTRATOS E RCBTOS"
+      "obs": "FEITAS/REVISÕES\n- REMESSAS/RETORNO: FEITAS COM RESSALVAS\n- LANÇAMENTO DAS CONCESSIONÁRIAS\n- BAIXAS DE COMPROVANTES\n\n\nA FAZER:\n- CONTROLE DO EMAIL\n- CONTRATOS E RCBTOS",
+      "origem": ""
     },
     {
       "id": "3cdc5ab5-32d3-818b-b23c-fca90e0d81f7",
@@ -42,7 +44,8 @@
       "prioridade": "Média",
       "status": "A Fazer",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c3c5ab5-32d3-816e-bf11-ea687fb60a21",
@@ -52,7 +55,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais."
+      "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais.",
+      "origem": ""
     },
     {
       "id": "3c3c5ab5-32d3-8189-93b3-f01e0854d580",
@@ -62,7 +66,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais."
+      "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais.",
+      "origem": ""
     },
     {
       "id": "3c3c5ab5-32d3-817b-974e-c345e80b9e7b",
@@ -72,7 +77,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais."
+      "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais.",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81b4-b8cf-e4099cbe95ca",
@@ -82,7 +88,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81af-b096-c3c0fd252541",
@@ -92,7 +99,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81bd-8f7f-d8c93b84e4dc",
@@ -102,7 +110,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-819f-b35c-e78b2fa5dd84",
@@ -112,7 +121,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-09-07",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-8113-bbdf-dc29bc6f3593",
@@ -122,7 +132,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81ba-b1f8-dd593ac18c07",
@@ -132,7 +143,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81e8-961c-dbb7561e0866",
@@ -142,7 +154,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi"
+      "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81ef-a594-f482b3e12534",
@@ -152,7 +165,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-816e-a570-e622d3ab7542",
@@ -162,7 +176,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-24",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81e2-a9c4-c136670da0fe",
@@ -172,7 +187,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81ca-9c9d-c3b1b1353141",
@@ -182,7 +198,8 @@
       "prioridade": "Média",
       "status": "Concluído",
       "semana": "2026-08-17",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-8101-a2c8-c6e79b60a0eb",
@@ -192,7 +209,8 @@
       "prioridade": "Média",
       "status": "Concluído",
       "semana": "2026-08-17",
-      "obs": ""
+      "obs": "",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-811f-a665-e6e6dedcc40c",
@@ -202,7 +220,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": "Atividades do Notion só funcionam se a pessoa realmente entrar e ver suas atividades, caso contrario não surte efeito positivo e gera demanda de criar tarefas de forma desnecessária. \n\nSendo por whatsapp, ou Notion. Precisamos ajustar o comprometimento, prioridade e retorno."
+      "obs": "Atividades do Notion só funcionam se a pessoa realmente entrar e ver suas atividades, caso contrario não surte efeito positivo e gera demanda de criar tarefas de forma desnecessária. \n\nSendo por whatsapp, ou Notion. Precisamos ajustar o comprometimento, prioridade e retorno.",
+      "origem": ""
     },
     {
       "id": "3c0c5ab5-32d3-81ea-aa4a-d4ad7e3a4299",
@@ -212,7 +231,8 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-08-31",
-      "obs": "Usar o filtro na aba de compras, facilita a organização pessoal, e evita atrasos. A pessoa se organiza diariamente ou em dias alternados para executar as tarefas de ajuste de valores dentro da semana."
+      "obs": "Usar o filtro na aba de compras, facilita a organização pessoal, e evita atrasos. A pessoa se organiza diariamente ou em dias alternados para executar as tarefas de ajuste de valores dentro da semana.",
+      "origem": ""
     }
   ]
 }
