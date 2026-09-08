@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-08T14:14:56",
+  "geradoEm": "2026-09-08T14:33:09",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,72 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3d5c5ab5-32d3-8145-a98f-c4de1e7e7c39",
+      "nome": "AUTOMAÇÃO ARQUIVOS DAS PASTAS DOS CORRETORES",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-8191-959b-f20af651e3d3",
+      "nome": "AUTOMAÇÃO ARQUIVOS DAS PASTAS DOS CORRETORES",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-817d-acd3-ce31971c3d10",
+      "nome": "AUTOMAÇÃO ARQUIVOS DAS PASTAS DOS CORRETORES",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-8154-9117-d38e910f3375",
+      "nome": "AUTOMAÇÃO ARQUIVOS DAS PASTAS DOS CORRETORES",
+      "setor": "Júlio Cesar",
+      "responsavel": "Júlio Cesar",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "Coparticipacao › RAS Financeiro › Gustavo",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-81e7-bd0c-e95c6a9f4fdc",
+      "nome": "Análise de Juros e Multas pagos 2026 - a partir de Março",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "Coparticipacao › RAS Financeiro › Lohany",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-81db-873f-f481b1eb39a2",
+      "nome": "Análise de Juros e Multas pagos 2026 - a partir de Março",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3d5c5ab5-32d3-81cc-9c55-fa8b70d4b04b",
       "nome": "Abordar com Mais Controle sobre inserir imposto ou taxas no cadastro do item de materiais, etc.",
@@ -64,7 +130,7 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-09-07",
       "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais.",
       "origem": ""
@@ -75,7 +141,7 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-09-07",
       "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais.",
       "origem": ""
@@ -97,8 +163,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "status": "Concluído",
+      "semana": "2026-08-31",
       "obs": "",
       "origem": ""
     },
@@ -108,8 +174,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "status": "Em Andamento",
+      "semana": "2026-08-31",
       "obs": "",
       "origem": ""
     },
@@ -130,7 +196,7 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-09-07",
       "obs": "",
       "origem": ""
@@ -163,7 +229,7 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Em Andamento",
       "semana": "2026-09-07",
       "obs": "",
       "origem": ""
