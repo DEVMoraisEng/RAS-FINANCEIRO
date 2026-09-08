@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-08T10:47:27",
+  "geradoEm": "2026-09-08T14:14:56",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3d5c5ab5-32d3-81cc-9c55-fa8b70d4b04b",
+      "nome": "Abordar com Mais Controle sobre inserir imposto ou taxas no cadastro do item de materiais, etc.",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3cec5ab5-32d3-8129-98ab-c06d32433f91",
       "nome": "Plano de contas",
@@ -108,19 +119,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
-      "obs": "",
-      "origem": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-819f-b35c-e78b2fa5dd84",
-      "nome": "Abordar com Mais Controle sobre inserir imposto ou taxas no cadastro do item de materiais, etc.",
-      "setor": "Gustavo",
-      "responsavel": "Gustavo",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "status": "Em Andamento",
+      "semana": "2026-08-31",
       "obs": "",
       "origem": ""
     },
@@ -175,7 +175,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-08-31",
       "obs": "",
       "origem": ""
     },
@@ -185,7 +185,7 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-09-07",
       "obs": "",
       "origem": ""
