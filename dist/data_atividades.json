@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-08T14:33:09",
+  "geradoEm": "2026-09-08T14:49:23",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,83 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3d5c5ab5-32d3-8172-8d89-dd4f9ef0acf5",
+      "nome": "Análise diária das Novas Unidades Consumidoras - Identificar possíveis gargalos no processo",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "Coparticipacao › RAS Financeiro › Ana Paula",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-815e-b391-e62d4e7a8722",
+      "nome": "Análise diária das Novas Unidades Consumidoras - Identificar possíveis gargalos no processo",
+      "setor": "Ana Paula",
+      "responsavel": "Ana Paula",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-81fc-8f60-e0a9379f2a7b",
+      "nome": "Verificar se o CNO está sendo incluído nas notas fiscais - conferência diária juntamente com endereço e valores corretos.",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-81b4-acfd-db779acf0599",
+      "nome": "Verificar se o CNO está sendo incluído nas notas fiscais - conferência diária juntamente com endereço e valores corretos.",
+      "setor": "Ana Paula",
+      "responsavel": "Ana Paula",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "Coparticipacao › RAS Financeiro › Lohany",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-81dd-a9cb-c4b7dc4dcb73",
+      "nome": "Testes do processo de cobrança e emissão de boletos",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-8127-a76a-d2b205af481b",
+      "nome": "Testes do processo de cobrança e emissão de boletos",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar",
+      "origem": ""
+    },
+    {
+      "id": "3d5c5ab5-32d3-8145-a3ec-c99eff6af8ab",
+      "nome": "Testes do processo de cobrança e emissão de boletos",
+      "setor": "Júlio Cesar",
+      "responsavel": "Júlio Cesar",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-07",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3d5c5ab5-32d3-8145-a98f-c4de1e7e7c39",
       "nome": "AUTOMAÇÃO ARQUIVOS DAS PASTAS DOS CORRETORES",
@@ -221,17 +298,6 @@
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-09-07",
       "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi",
-      "origem": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-81ef-a594-f482b3e12534",
-      "nome": "Sistema e processo de cobrança alinhado e funcionando para otimização da demanda no lançamento do condomínio",
-      "setor": "Júlio Cesar",
-      "responsavel": "Júlio Cesar",
-      "prioridade": "Média",
-      "status": "Em Andamento",
-      "semana": "2026-09-07",
-      "obs": "",
       "origem": ""
     },
     {
