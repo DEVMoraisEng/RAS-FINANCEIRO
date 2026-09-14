@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T05:53:59",
+  "geradoEm": "2026-09-14T07:35:04",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -42,8 +42,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -53,8 +53,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "Coparticipacao › RAS Financeiro › Lohany",
       "origem": ""
     },
@@ -64,8 +64,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar",
       "origem": ""
     },
@@ -75,8 +75,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar",
       "origem": ""
     },
@@ -86,8 +86,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -141,8 +141,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "Coparticipacao › RAS Financeiro › Lohany",
       "origem": ""
     },
@@ -152,8 +152,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -163,8 +163,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-07",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -175,7 +175,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "Concluído.\nEm fase de adaptação do setor de compras",
       "origem": ""
     },
@@ -186,7 +186,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "FEITAS/REVISÕES\n- REMESSAS/RETORNO: FEITAS COM RESSALVAS\n- LANÇAMENTO DAS CONCESSIONÁRIAS\n- BAIXAS DE COMPROVANTES\n\n\nA FAZER:\n- CONTROLE DO EMAIL\n- CONTRATOS E RCBTOS",
       "origem": ""
     },
@@ -197,7 +197,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -230,7 +230,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais.",
       "origem": ""
     },
@@ -252,7 +252,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -263,7 +263,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-08-31",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -285,7 +285,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -296,7 +296,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi",
       "origem": ""
     },
@@ -307,7 +307,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-08-31",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -351,7 +351,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "Atividades do Notion só funcionam se a pessoa realmente entrar e ver suas atividades, caso contrario não surte efeito positivo e gera demanda de criar tarefas de forma desnecessária. \n\nSendo por whatsapp, ou Notion. Precisamos ajustar o comprometimento, prioridade e retorno.",
       "origem": ""
     },
@@ -362,7 +362,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-07",
+      "semana": "2026-09-14",
       "obs": "Usar o filtro na aba de compras, facilita a organização pessoal, e evita atrasos. A pessoa se organiza diariamente ou em dias alternados para executar as tarefas de ajuste de valores dentro da semana.",
       "origem": ""
     }
