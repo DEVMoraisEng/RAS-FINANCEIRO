@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T12:05:05",
+  "geradoEm": "2026-09-14T12:52:50",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,28 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3dbc5ab5-32d3-8161-9b3f-ec4ee936885c",
+      "nome": "COBRAR PAULA DOS 1.200,00 A RONALDO ROSA",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Financeiro › Gustavo"
+    },
+    {
+      "id": "3dbc5ab5-32d3-811f-8e44-f331a828ca4d",
+      "nome": "COBRAR PAULA DOS 1.200,00 A RONALDO ROSA",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3d5c5ab5-32d3-8172-8d89-dd4f9ef0acf5",
       "nome": "Análise diária das Novas Unidades Consumidoras - Identificar possíveis gargalos no processo",
