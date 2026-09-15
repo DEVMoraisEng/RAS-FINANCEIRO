@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-15T17:59:05",
+  "geradoEm": "2026-09-15T18:27:14",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3dcc5ab5-32d3-81bb-b2d8-deb8c00881fd",
+      "nome": "Lembrar de não fazer liberações de pagamentos ao Renan (Terraplanagem) enquanto não solucionarmos as questões das notas fiscais e contrato com ele.",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-14",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3dbc5ab5-32d3-8161-9b3f-ec4ee936885c",
       "nome": "COBRAR PAULA DOS 1.200,00 A RONALDO ROSA",
