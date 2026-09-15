@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-15T13:13:51",
+  "geradoEm": "2026-09-15T16:46:53",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -21,7 +21,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": "Coparticipacao › RAS Financeiro › Gustavo"
     },
@@ -64,7 +64,7 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Em Andamento",
       "semana": "2026-09-14",
       "obs": "",
       "origem": ""
@@ -82,13 +82,13 @@
     },
     {
       "id": "3d5c5ab5-32d3-81dd-a9cb-c4b7dc4dcb73",
-      "nome": "Testes do processo de cobrança e emissão de boletos",
+      "nome": "Processo de cobrança e emissão de boletos",
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Em Andamento",
       "semana": "2026-09-14",
-      "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar",
+      "obs": "",
       "origem": ""
     },
     {
@@ -174,8 +174,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "status": "Concluído",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -185,8 +185,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "status": "Concluído",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -251,8 +251,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "status": "Concluído",
+      "semana": "2026-09-07",
       "obs": "Real começou a mudar a forma de apurar os imposto para já começar a adaptar ao novo formato (E-Financeira).\n\nAntes: Apuração era feita depois do recebimento do financiamento e era sobre o valor total do contrato do financiamento + juros\n\nAgora: Sobre o valor real recebido e apurado mensalmente. Recebeu sinal, apura sobre o sinal. Recebeu entrada, apura sobre entrada etc...\n\nA partir do ano que vem vai ter que começar a emissão de NF-e da venda da casa. Vai sair PIS/COFINS e entra CBS.\nPriorizar comissão a ser paga direto do comprador para o corretor, sem passar pela Morais.",
       "origem": ""
     },
@@ -306,8 +306,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "status": "Em Andamento",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
@@ -328,8 +328,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "status": "Concluído",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
