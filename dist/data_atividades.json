@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-15T18:48:13",
+  "geradoEm": "2026-09-15T19:05:29",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -141,8 +141,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "status": "Concluído",
+      "semana": "2026-09-07",
       "obs": "Coparticipacao › RAS Financeiro › Lohany",
       "origem": ""
     },
@@ -174,8 +174,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "status": "Concluído",
+      "semana": "2026-09-07",
       "obs": "Concluído.\nEm fase de adaptação do setor de compras",
       "origem": ""
     },
@@ -185,7 +185,7 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
+      "status": "Concluído",
       "semana": "2026-09-14",
       "obs": "FEITAS/REVISÕES\n- REMESSAS/RETORNO: FEITAS COM RESSALVAS\n- LANÇAMENTO DAS CONCESSIONÁRIAS\n- BAIXAS DE COMPROVANTES\n\n\nA FAZER:\n- CONTROLE DO EMAIL\n- CONTRATOS E RCBTOS",
       "origem": ""
@@ -198,7 +198,7 @@
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
       "semana": "2026-09-14",
-      "obs": "",
+      "obs": "Fazer verificação semanal das obras criadas e fazer o vínculo",
       "origem": ""
     },
     {
@@ -263,7 +263,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-07",
       "obs": "",
       "origem": ""
     },
