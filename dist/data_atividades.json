@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-21T03:51:12",
+  "geradoEm": "2026-09-21T07:38:54",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,8 +20,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-14",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -42,8 +42,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-14",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -53,8 +53,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-14",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-21",
       "obs": "Coparticipacao › RAS Financeiro › Ana Paula",
       "origem": ""
     },
@@ -64,8 +64,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-14",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-21",
       "obs": "Apresentação de protocolos de transferências (fazer relatórios de protocolos faltantes) - não agendar sem ter.\nConferir as transferências de UC. (não entregar a casa enquanto não tiver transferido)\n\nObs.: fatura menos de 80,00 a gente paga e manda desligar",
       "origem": ""
     },
@@ -76,7 +76,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -87,7 +87,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "Coparticipacao › RAS Financeiro › Lohany\nCriar planilha com valor acessório e ISS.",
       "origem": ""
     },
@@ -98,7 +98,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -109,7 +109,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar",
       "origem": ""
     },
@@ -120,7 +120,7 @@
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -130,8 +130,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-14",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-21",
       "obs": "Coparticipacao › RAS Financeiro › Gustavo",
       "origem": ""
     },
@@ -197,7 +197,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "Fazer verificação semanal das obras criadas e fazer o vínculo",
       "origem": ""
     },
@@ -252,7 +252,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -263,7 +263,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-07",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -285,7 +285,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-07",
+      "semana": "2026-09-21",
       "obs": "",
       "origem": ""
     },
@@ -296,7 +296,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi",
       "origem": ""
     },
@@ -351,7 +351,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "Atividades do Notion só funcionam se a pessoa realmente entrar e ver suas atividades, caso contrario não surte efeito positivo e gera demanda de criar tarefas de forma desnecessária. \n\nSendo por whatsapp, ou Notion. Precisamos ajustar o comprometimento, prioridade e retorno.",
       "origem": ""
     },
@@ -362,7 +362,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-21",
       "obs": "Usar o filtro na aba de compras, facilita a organização pessoal, e evita atrasos. A pessoa se organiza diariamente ou em dias alternados para executar as tarefas de ajuste de valores dentro da semana.",
       "origem": ""
     }
