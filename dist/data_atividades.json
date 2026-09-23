@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-23T13:12:29",
+  "geradoEm": "2026-09-23T13:40:59",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,28 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3e4c5ab5-32d3-813f-98e1-e0e2f482f39f",
+      "nome": "Revisão dos lançamentos",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3e4c5ab5-32d3-8128-86e0-d6343a72b934",
+      "nome": "Verificar sobre backup Box Obras - providenciar finalização",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "Até 30/09",
+      "origem": ""
+    },
     {
       "id": "3e4c5ab5-32d3-81fc-99d0-f2c5d155014c",
       "nome": "Alinhar integração de contrato através de IA com Mais Controle",
@@ -353,17 +375,6 @@
       "status": "Concluído",
       "semana": "2026-08-17",
       "obs": "",
-      "origem": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-81ea-aa4a-d4ad7e3a4299",
-      "nome": "Ordem de compras - entrega parcial",
-      "setor": "Ana Paula",
-      "responsavel": "Ana Paula",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
-      "obs": "Usar o filtro na aba de compras, facilita a organização pessoal, e evita atrasos. A pessoa se organiza diariamente ou em dias alternados para executar as tarefas de ajuste de valores dentro da semana.",
       "origem": ""
     }
   ]
