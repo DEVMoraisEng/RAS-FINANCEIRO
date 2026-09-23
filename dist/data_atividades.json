@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-23T13:40:59",
+  "geradoEm": "2026-09-23T14:21:46",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,39 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3e4c5ab5-32d3-81f4-8ec7-c7a6bde545b8",
+      "nome": "Alinhar com compras sobre informações do CNO constarem nas notas fiscais - Serviços e pré moldados são obrigatórios",
+      "setor": "Lohany",
+      "responsavel": "Lohany",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "",
+      "origem": ""
+    },
+    {
+      "id": "3e4c5ab5-32d3-810a-b5b1-ea25847fb55e",
+      "nome": "Alinhamento com Juliana sobre validação ou não da transferência de UC",
+      "setor": "Júlio Cesar",
+      "responsavel": "Júlio Cesar",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "",
+      "origem": "Coparticipacao › RAS Financeiro › Ana Paula"
+    },
+    {
+      "id": "3e4c5ab5-32d3-81f3-93c0-d0aaad8db609",
+      "nome": "Alinhamento com Juliana sobre validação ou não da transferência de UC",
+      "setor": "Ana Paula",
+      "responsavel": "Ana Paula",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3e4c5ab5-32d3-813f-98e1-e0e2f482f39f",
       "nome": "Revisão dos lançamentos",
@@ -75,8 +108,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "status": "A Fazer",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
