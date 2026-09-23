@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-23T12:48:14",
+  "geradoEm": "2026-09-23T13:12:29",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -353,17 +353,6 @@
       "status": "Concluído",
       "semana": "2026-08-17",
       "obs": "",
-      "origem": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-811f-a665-e6e6dedcc40c",
-      "nome": "NOTION - Principal meio de lembrar atividade",
-      "setor": "Ana Paula",
-      "responsavel": "Ana Paula",
-      "prioridade": "Média",
-      "status": "Concluído",
-      "semana": "2026-09-14",
-      "obs": "Atividades do Notion só funcionam se a pessoa realmente entrar e ver suas atividades, caso contrario não surte efeito positivo e gera demanda de criar tarefas de forma desnecessária. \n\nSendo por whatsapp, ou Notion. Precisamos ajustar o comprometimento, prioridade e retorno.",
       "origem": ""
     },
     {
