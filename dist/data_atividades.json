@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-23T10:57:58",
+  "geradoEm": "2026-09-23T12:48:14",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "3e4c5ab5-32d3-81fc-99d0-f2c5d155014c",
+      "nome": "Alinhar integração de contrato através de IA com Mais Controle",
+      "setor": "Gustavo",
+      "responsavel": "Gustavo",
+      "prioridade": "Média",
+      "status": "A Fazer",
+      "semana": "2026-09-21",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3dcc5ab5-32d3-81bb-b2d8-deb8c00881fd",
       "nome": "Lembrar de não fazer liberações de pagamentos ao Renan (Terraplanagem) enquanto não solucionarmos as questões das notas fiscais e contrato com ele.",
@@ -32,7 +43,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": "Coparticipacao › RAS Financeiro › Gustavo"
     },
@@ -53,8 +64,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "status": "Em Andamento",
+      "semana": "2026-09-14",
       "obs": "Coparticipacao › RAS Financeiro › Ana Paula",
       "origem": ""
     },
@@ -71,7 +82,7 @@
     },
     {
       "id": "3d5c5ab5-32d3-81fc-8f60-e0a9379f2a7b",
-      "nome": "Verificar se o CNO está sendo incluído nas notas fiscais - conferência diária juntamente com endereço e valores corretos.",
+      "nome": "CNO não está sendo incluído nas notas fiscais - conferência diária",
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
@@ -87,13 +98,13 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "semana": "2026-09-14",
       "obs": "Coparticipacao › RAS Financeiro › Lohany\nCriar planilha com valor acessório e ISS.",
       "origem": ""
     },
     {
       "id": "3d5c5ab5-32d3-81dd-a9cb-c4b7dc4dcb73",
-      "nome": "Processo de cobrança e emissão de boletos",
+      "nome": "Testes do cobrança fácil integrado ao banco",
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
@@ -252,7 +263,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-21",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -263,7 +274,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-21",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -285,7 +296,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-21",
+      "semana": "2026-09-14",
       "obs": "",
       "origem": ""
     },
@@ -296,7 +307,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "semana": "2026-09-14",
       "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi",
       "origem": ""
     },
@@ -350,8 +361,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "status": "Concluído",
+      "semana": "2026-09-14",
       "obs": "Atividades do Notion só funcionam se a pessoa realmente entrar e ver suas atividades, caso contrario não surte efeito positivo e gera demanda de criar tarefas de forma desnecessária. \n\nSendo por whatsapp, ou Notion. Precisamos ajustar o comprometimento, prioridade e retorno.",
       "origem": ""
     },
