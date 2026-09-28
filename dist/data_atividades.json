@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-28T06:23:37",
+  "geradoEm": "2026-09-28T08:14:54",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,8 +20,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-21",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -31,8 +31,8 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-21",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": "Coparticipacao › RAS Financeiro › Ana Paula"
     },
@@ -42,8 +42,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-21",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -53,8 +53,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-21",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -64,8 +64,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-21",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-28",
       "obs": "Até 30/09",
       "origem": ""
     },
@@ -75,8 +75,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-09-21",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -87,7 +87,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -120,7 +120,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-28",
       "obs": "Coparticipacao › RAS Financeiro › Ana Paula",
       "origem": ""
     },
@@ -131,7 +131,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "Apresentação de protocolos de transferências (fazer relatórios de protocolos faltantes) - não agendar sem ter.\nConferir as transferências de UC. (não entregar a casa enquanto não tiver transferido)\n\nObs.: fatura menos de 80,00 a gente paga e manda desligar",
       "origem": ""
     },
@@ -142,7 +142,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -153,7 +153,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-28",
       "obs": "Coparticipacao › RAS Financeiro › Lohany\nCriar planilha com valor acessório e ISS.",
       "origem": ""
     },
@@ -164,7 +164,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -175,7 +175,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar",
       "origem": ""
     },
@@ -186,7 +186,7 @@
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -197,7 +197,7 @@
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "Coparticipacao › RAS Financeiro › Gustavo",
       "origem": ""
     },
@@ -263,7 +263,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-21",
+      "semana": "2026-09-28",
       "obs": "Fazer verificação semanal das obras criadas e fazer o vínculo",
       "origem": ""
     },
@@ -318,7 +318,7 @@
       "responsavel": "Ana Paula",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -329,7 +329,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -351,7 +351,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-14",
+      "semana": "2026-09-28",
       "obs": "",
       "origem": ""
     },
@@ -362,7 +362,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-14",
+      "semana": "2026-09-28",
       "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi",
       "origem": ""
     },
