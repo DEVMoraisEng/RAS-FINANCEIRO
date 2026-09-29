@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-29T07:59:42",
+  "geradoEm": "2026-09-29T13:02:37",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -109,7 +109,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "A Fazer",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "28/09 - Cobrei a Paula uma posição, aguardando retorno",
       "origem": ""
     },
@@ -257,17 +257,6 @@
       "origem": ""
     },
     {
-      "id": "3cdc5ab5-32d3-818b-b23c-fca90e0d81f7",
-      "nome": "Centro de custo a classificar - obra pendente",
-      "setor": "Gustavo",
-      "responsavel": "Gustavo",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-28",
-      "obs": "Fazer verificação semanal das obras criadas e fazer o vínculo",
-      "origem": ""
-    },
-    {
       "id": "3c3c5ab5-32d3-816e-bf11-ea687fb60a21",
       "nome": "Novo formato de apuração de impostos sobre venda de unidade",
       "setor": "Júlio Cesar",
@@ -353,17 +342,6 @@
       "status": "Em Andamento",
       "semana": "2026-09-28",
       "obs": "",
-      "origem": ""
-    },
-    {
-      "id": "3c0c5ab5-32d3-81e8-961c-dbb7561e0866",
-      "nome": "Sistema e processo de cobrança alinhado e funcionando para otimização da demanda no lançamento do condomínio",
-      "setor": "Gustavo",
-      "responsavel": "Gustavo",
-      "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-28",
-      "obs": "CUSTOS MAIS CONTROLE (COBRANÇA FÁCIL): 2,90/BOLETO\nCUSTOS SICOOB: 2,20/BOLETO\n\nALTERNATIVAS:\nASAAS\nVindi",
       "origem": ""
     },
     {
