@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-05T18:02:22",
+  "geradoEm": "2026-10-05T18:36:55",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -119,7 +119,7 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-10-05",
       "obs": "Coparticipacao › RAS Financeiro › Ana Paula",
       "origem": ""
