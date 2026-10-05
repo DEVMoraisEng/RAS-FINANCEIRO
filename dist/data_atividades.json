@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-05T01:41:29",
+  "geradoEm": "2026-10-05T08:23:25",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -54,7 +54,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "",
       "origem": ""
     },
@@ -65,7 +65,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "(28/09 09:45) Semana passada pessoal do suporte mandou um bkp só que não vinha os arquivos. Solicitei para que enviassem um bkp com os arquivos.\n\nComo vai funcionar o bkp:\nC:\\Arquivos Morais\\boxobras-consulta\\docs",
       "origem": ""
     },
@@ -76,7 +76,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "",
       "origem": ""
     },
@@ -87,7 +87,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "",
       "origem": ""
     },
@@ -120,7 +120,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-21",
+      "semana": "2026-10-05",
       "obs": "Coparticipacao › RAS Financeiro › Ana Paula",
       "origem": ""
     },
@@ -164,7 +164,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "",
       "origem": ""
     },
@@ -175,7 +175,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "Coparticipacao › RAS Financeiro › Júlio Cesar\n\n(28/09 09:45) Solicitado ao Sicoob o credenciamento a emissão de boletos. A cobrança padrão era de R$ 6,00 e solicitaram a mudança para 2,20. Está em análise, aguardando resposta da Larisse.",
       "origem": ""
     },
@@ -186,7 +186,7 @@
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-09-28",
+      "semana": "2026-10-05",
       "obs": "",
       "origem": ""
     },
