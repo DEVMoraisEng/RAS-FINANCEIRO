@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-26T03:42:19",
+  "geradoEm": "2026-10-26T07:26:01",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -54,7 +54,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-19",
+      "semana": "2026-10-26",
       "obs": "",
       "origem": ""
     },
@@ -65,7 +65,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-19",
+      "semana": "2026-10-26",
       "obs": "(28/09 09:45) Semana passada pessoal do suporte mandou um bkp só que não vinha os arquivos. Solicitei para que enviassem um bkp com os arquivos.\n\nComo vai funcionar o bkp:\nC:\\Arquivos Morais\\boxobras-consulta\\docs",
       "origem": ""
     },
@@ -76,7 +76,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-19",
+      "semana": "2026-10-26",
       "obs": "",
       "origem": ""
     },
@@ -87,7 +87,7 @@
       "responsavel": "Lohany",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-19",
+      "semana": "2026-10-26",
       "obs": "",
       "origem": ""
     },
@@ -186,7 +186,7 @@
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
       "status": "Em Andamento",
-      "semana": "2026-10-19",
+      "semana": "2026-10-26",
       "obs": "",
       "origem": ""
     },
