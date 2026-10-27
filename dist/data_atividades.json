@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-27T14:05:21",
+  "geradoEm": "2026-10-27T14:33:27",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -207,7 +207,7 @@
       "setor": "Júlio Cesar",
       "responsavel": "Júlio Cesar",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-10-26",
       "obs": "",
       "origem": ""
