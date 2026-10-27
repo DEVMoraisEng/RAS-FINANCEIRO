@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-10-27T07:26:11",
+  "geradoEm": "2026-10-27T13:36:46",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -14,6 +14,17 @@
     "Lohany"
   ],
   "atividades": [
+    {
+      "id": "406c5ab5-32d3-811f-9c1f-d5b0f8c998c9",
+      "nome": "Revisar contas que não foram pagas e transferidas pelos clientes.",
+      "setor": "Ana Paula",
+      "responsavel": "Ana Paula",
+      "prioridade": "Alta",
+      "status": "A Fazer",
+      "semana": "2026-10-26",
+      "obs": "",
+      "origem": ""
+    },
     {
       "id": "3e4c5ab5-32d3-81f4-8ec7-c7a6bde545b8",
       "nome": "Alinhar com compras sobre informações do CNO constarem nas notas fiscais - Serviços e pré moldados são obrigatórios",
@@ -64,8 +75,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "status": "Concluído",
+      "semana": "2026-10-19",
       "obs": "(28/09 09:45) Semana passada pessoal do suporte mandou um bkp só que não vinha os arquivos. Solicitei para que enviassem um bkp com os arquivos.\n\nComo vai funcionar o bkp:\nC:\\Arquivos Morais\\boxobras-consulta\\docs",
       "origem": ""
     },
@@ -75,8 +86,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "Em Andamento",
-      "semana": "2026-10-26",
+      "status": "Concluído",
+      "semana": "2026-10-19",
       "obs": "",
       "origem": ""
     },
@@ -86,7 +97,7 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "Em Andamento",
+      "status": "Concluído",
       "semana": "2026-10-26",
       "obs": "",
       "origem": ""
