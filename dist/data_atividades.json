@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-02T07:22:58",
+  "geradoEm": "2026-11-02T08:54:33",
   "statusOptions": [
     "Continuidade da Semana Anterior",
     "A Fazer",
@@ -20,8 +20,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-26",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -31,8 +31,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-26",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -42,8 +42,8 @@
       "setor": "Gustavo",
       "responsavel": "Gustavo",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-26",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -53,8 +53,8 @@
       "setor": "Lohany",
       "responsavel": "Lohany",
       "prioridade": "Média",
-      "status": "A Fazer",
-      "semana": "2026-10-26",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -64,8 +64,8 @@
       "setor": "Ana Paula",
       "responsavel": "Ana Paula",
       "prioridade": "Alta",
-      "status": "A Fazer",
-      "semana": "2026-10-26",
+      "status": "Continuidade da Semana Anterior",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
@@ -109,7 +109,7 @@
       "responsavel": "Gustavo",
       "prioridade": "Média",
       "status": "Continuidade da Semana Anterior",
-      "semana": "2026-10-26",
+      "semana": "2026-11-02",
       "obs": "",
       "origem": ""
     },
